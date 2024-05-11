@@ -31,4 +31,4 @@ I might release a separate repo exclusively for such, but not at this very insta
 **And websites used?**
 1. https://www.codeproject.com/Articles/5264831/How-to-Send-Inputs-using-Csharp
 2. https://github.com/jarvisniu/KeyListener
-
+3. https://forums.getpaint.net/topic/927-icon-cursor-and-animated-cursor-format-v37-may-2010/
