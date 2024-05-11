@@ -1,0 +1,10 @@
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\bin\Debug\AFK Clicker.exe.config
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\bin\Debug\AFK Clicker.exe
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\bin\Debug\AFK Clicker.pdb
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Debug\AFK Clicker.csproj.AssemblyReference.cache
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Debug\AFK_Clicker.Properties.Resources.resources
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Debug\AFK Clicker.csproj.GenerateResource.cache
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Debug\AFK Clicker.csproj.CoreCompileInputs.cache
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Debug\AFK Clicker.exe
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Debug\AFK Clicker.pdb
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Debug\AFK_Clicker.Form1.resources

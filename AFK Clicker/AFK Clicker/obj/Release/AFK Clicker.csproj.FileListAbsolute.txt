@@ -1,0 +1,10 @@
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\bin\Release\Roblox AFK Clicker.exe.config
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\bin\Release\Roblox AFK Clicker.exe
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\bin\Release\Roblox AFK Clicker.pdb
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Release\AFK_Clicker.Form1.resources
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Release\AFK_Clicker.Properties.Resources.resources
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Release\AFK Clicker.csproj.GenerateResource.cache
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Release\AFK Clicker.csproj.CoreCompileInputs.cache
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Release\Roblox AFK Clicker.exe
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Release\Roblox AFK Clicker.pdb
+C:\Users\SHOOTKILLDESTROY\source\repos\AFK Clicker\AFK Clicker\obj\Release\AFK Clicker.csproj.AssemblyReference.cache
