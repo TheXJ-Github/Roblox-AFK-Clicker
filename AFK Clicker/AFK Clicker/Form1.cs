@@ -5,22 +5,6 @@ using System.Threading;
 using System.Windows.Forms;
 using Point = System.Drawing.Point;
 
-/* Credits to these cool people making this project possible!
- * 
- * Bojidar Qnkov : Mouse Input code
- * CYBER SOLDIER : DLL Imports
- * jarvisniu     : Background key listener
- * 
- * Resources used for this project
- * programs
- * Visual Studio 2019 : Literally everything
- * Paint.NET : The Icon
- * 
- * websites
- * https://www.codeproject.com/Articles/5264831/How-to-Send-Inputs-using-Csharp
- * https://github.com/jarvisniu/KeyListener
- */
-
 namespace AFK_Clicker
 {   
     public partial class Form1 : Form
