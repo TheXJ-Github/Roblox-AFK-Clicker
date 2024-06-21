@@ -195,19 +195,26 @@ namespace AFK_Clicker
             if (isClickerActive == false)
             {
                 isClickerActive = true;
+                bool performAutoclick = true;
 
                 Activation_Position = GetCursorPosition();
                 Maximum_Cursor_Offset = (int)upDown.Value;
 
                 GraphicsDrawing.DrawRectangleOutline(Activation_Position, Maximum_Cursor_Offset);
 
-                do
+                while (performAutoclick == true)
                 {
                     Thread.Sleep(1000);
-                    MouseLeftClick();
-                    GraphicsDrawing.DrawRectangleOutline(Activation_Position, Maximum_Cursor_Offset);
+                    if (IsCursorBeyondOffset(Activation_Position, Maximum_Cursor_Offset))
+                    {
+                        performAutoclick = false;
+                    }
+                    else
+                    {
+                        MouseLeftClick();
+                        GraphicsDrawing.DrawRectangleOutline(Activation_Position, Maximum_Cursor_Offset);
+                    }
                 }
-                while (!IsCursorBeyondOffset(Activation_Position, Maximum_Cursor_Offset));
 
                 GraphicsDrawing.ClearDrawings();
                 MessageBox.Show("The autoclicker has been turned off", "Roblox AFK Clicker");
